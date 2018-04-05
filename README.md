@@ -4,3 +4,4 @@ Developed as a GUI tool.
 * Tkinter
 
 Using bit shift operations, the input is encrypted. And, it is decrypted using the reverse operation.
+![Output](https://github.com/amrs-tech/Encryptor-Decryptor-Tool/blob/master/enc_dec_op.png)
