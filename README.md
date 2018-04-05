@@ -1,2 +1,6 @@
 # Encryptor-Decryptor-GUI-Tool
-Using Tkinter package of Python 3, the GUI was developed.
+Developed as a GUI tool.
+### PreRequisites
+* Tkinter
+
+Using bit shift operations, the input is encrypted. And, it is decrypted using the reverse operation.
